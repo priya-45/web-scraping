@@ -1,0 +1,30 @@
+{
+    "name": "Paddington 2",
+    "Rating": "PG",
+    "Genre": [
+        " Adventure",
+        "Kids&family",
+        "Comedy"
+    ],
+    "Language": [
+        "English",
+        "(United",
+        "Kingdom)"
+    ],
+    "Director": [
+        " PaulKing"
+    ],
+    "Producer": [
+        " DavidHeyman"
+    ],
+    "Writer": [
+        " PaulKing",
+        "SimonFarnaby"
+    ],
+    "Release": [
+        "Apr",
+        "24,",
+        "2018"
+    ],
+    "Runtime": 103
+}
