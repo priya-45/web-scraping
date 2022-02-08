@@ -1,0 +1,144 @@
+[
+    {
+        "name": "Toy Story 4",
+        "Rating": "G",
+        "Genre": [
+            " Fantasy",
+            "Kids&family",
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "Language": [
+            "English"
+        ],
+        "Director": [
+            " JoshCooley"
+        ],
+        "Producer": [
+            " MarkNielsen",
+            "JonasRivera",
+            "GalynSusman"
+        ],
+        "Writer": [
+            " AndrewStanton",
+            "StephanyFolsom"
+        ],
+        "Release": [
+            "Oct",
+            "1,",
+            "2019"
+        ],
+        "Runtime": 100
+    },
+    [
+        {
+            "actor name": "tom_hanks"
+        },
+        {
+            "actor name": "tim_allen"
+        },
+        {
+            "actor name": "annie_potts"
+        },
+        {
+            "actor name": "tony_hale_ii"
+        },
+        {
+            "actor name": "keegan_michael_key"
+        },
+        {
+            "actor name": "madeleine_mcgraw"
+        },
+        {
+            "actor name": "christina_hendricks"
+        },
+        {
+            "actor name": "jordan_peele"
+        },
+        {
+            "actor name": "keanu_reeves"
+        },
+        {
+            "actor name": "ally_maki"
+        },
+        {
+            "actor name": "jay_hernandez"
+        },
+        {
+            "actor name": "lori_allen"
+        },
+        {
+            "actor name": "joan_cusack"
+        },
+        {
+            "actor name": "bonnie_hunt"
+        },
+        {
+            "actor name": "kristen_schaal"
+        },
+        {
+            "actor name": "emily_davis_4"
+        },
+        {
+            "actor name": "wallace_shawn"
+        },
+        {
+            "actor name": "john_ratzenberger"
+        },
+        {
+            "actor name": "blake_clark"
+        },
+        {
+            "actor name": "june_squibb_2"
+        },
+        {
+            "actor name": "josh_cooley"
+        },
+        {
+            "actor name": "andrew_stanton"
+        },
+        {
+            "actor name": "stephany_folsom"
+        },
+        {
+            "actor name": "mark_nielsen_3"
+        },
+        {
+            "actor name": "jonas-rivera"
+        },
+        {
+            "actor name": "galyn_susman"
+        },
+        {
+            "actor name": "andrew_stanton"
+        },
+        {
+            "actor name": "lee_unkrich"
+        },
+        {
+            "actor name": "peter-docter"
+        },
+        {
+            "actor name": "patrick_lin"
+        },
+        {
+            "actor name": "jean_claude_kalache"
+        },
+        {
+            "actor name": "axel_geddes"
+        },
+        {
+            "actor name": "randy_newman"
+        },
+        {
+            "actor name": "bob_pauley"
+        },
+        {
+            "actor name": "kevin_reher"
+        },
+        {
+            "actor name": "natalie_lyon_2"
+        }
+    ]
+]
